@@ -21,18 +21,11 @@ Fullstack Developer | React | Next.js | TypeScript | Node.js | Express | MongoDB
 
 ---
 
-## 🌐 Projects
-Here are some projects I've built:
-- [Project 1](https://github.com/omar/project1) - Short description
-- [Project 2](https://github.com/omar/project2) - Short description
-- [Project 3](https://github.com/omar/project3) - Short description
-
----
 
 ## 📫 Contact Me
-- Email: omar@example.com  
-- LinkedIn: [linkedin.com/in/omar](https://linkedin.com/in/omar)  
-- GitHub: [github.com/omar](https://github.com/omar)
+- Email: omar83980@gmail.com  
+- LinkedIn: [linkedin.com/in/omar]([https://linkedin.com/in/omar](https://www.linkedin.com/in/omar-mohamed-9220411b4))  
+- Leetcode: [leetcode.com/omar](https://leetcode.com/u/omarragab1948)
 
 ---
 
