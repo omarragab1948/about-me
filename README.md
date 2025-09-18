@@ -24,7 +24,7 @@ Fullstack Developer | React | Next.js | TypeScript | Node.js | Express | MongoDB
 
 ## 📫 Contact Me
 - Email: omar83980@gmail.com  
-- LinkedIn: [linkedin.com/in/omar](https://linkedin.com/in/omar](https://www.linkedin.com/in/omar-mohamed-9220411b4))  
+- LinkedIn: [linkedin.com/in/omar](https://www.linkedin.com/in/omar-mohamed-9220411b4)  
 - Leetcode: [leetcode.com/omar](https://leetcode.com/u/omarragab1948)
 
 ---
